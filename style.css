@@ -1,0 +1,12 @@
+.zeb-img {
+    width: 200px;
+}
+
+.zeb-txt {
+    font-family: fantasy;
+    color: gold;
+    font-size: 14px;
+}
+#main {
+    background-color: azure;
+}
